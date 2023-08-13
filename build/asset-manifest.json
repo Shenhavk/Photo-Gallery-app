@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57aa8e12.css",
+    "main.js": "/static/js/main.51e42322.js",
+    "static/js/787.6e8131de.chunk.js": "/static/js/787.6e8131de.chunk.js",
+    "static/media/vincentas-liskauskas-TPhZnl2NEws-unsplash.jpg": "/static/media/vincentas-liskauskas-TPhZnl2NEws-unsplash.4ef213399d18959cd089.jpg",
+    "index.html": "/index.html",
+    "main.57aa8e12.css.map": "/static/css/main.57aa8e12.css.map",
+    "main.51e42322.js.map": "/static/js/main.51e42322.js.map",
+    "787.6e8131de.chunk.js.map": "/static/js/787.6e8131de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57aa8e12.css",
+    "static/js/main.51e42322.js"
+  ]
+}
